@@ -120,7 +120,7 @@ PragueParking2.1-Solution/
 
 #### Alternativ 1: Klona repo (om GitHub)
 ```bash
-git clone https://github.com/ditt-användarnamn/prague-parking.git
+git clone https://github.com/Abdi-SalamIb/Prague_Parking_V2.git
 cd prague-parking
 ```
 
