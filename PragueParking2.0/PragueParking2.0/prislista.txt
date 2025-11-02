@@ -1,0 +1,10 @@
+﻿# Prislista för Prague Parking
+# Rader som börjar med # är kommentarer
+
+# Timpris (CZK)
+Car=20
+MC=10
+Bus=40
+Bicycle=5
+
+# De första 10 minuterna är gratis

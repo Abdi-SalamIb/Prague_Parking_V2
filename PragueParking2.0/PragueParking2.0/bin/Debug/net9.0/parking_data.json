@@ -1,0 +1,114 @@
+{
+  "Spots": [
+    {
+      "SpotNumber": 1,
+      "Vehicles": [
+        {
+          "Type": "Car",
+          "RegistrationNumber": "car",
+          "CheckInTime": "2025-11-02T12:34:19.3873935+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 2,
+      "Vehicles": [
+        {
+          "Type": "Car",
+          "RegistrationNumber": "Car",
+          "CheckInTime": "2025-11-02T12:34:25.5072581+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 3,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "Busn23",
+          "CheckInTime": "2025-11-02T12:34:49.1703889+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 4,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "Busn23",
+          "CheckInTime": "2025-11-02T12:34:49.1703889+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 5,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "Busn23",
+          "CheckInTime": "2025-11-02T12:34:49.1703889+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 6,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "Busn23",
+          "CheckInTime": "2025-11-02T12:34:49.1703889+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 7,
+      "Vehicles": [
+        {
+          "Type": "MC",
+          "RegistrationNumber": "C123",
+          "CheckInTime": "2025-11-02T12:35:10.9568949+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 8,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "l",
+          "CheckInTime": "2025-11-02T12:42:06.4777292+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 9,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "l",
+          "CheckInTime": "2025-11-02T12:42:06.4777292+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 10,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "l",
+          "CheckInTime": "2025-11-02T12:42:06.4777292+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 11,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "l",
+          "CheckInTime": "2025-11-02T12:42:06.4777292+01:00"
+        }
+      ]
+    }
+  ]
+}
