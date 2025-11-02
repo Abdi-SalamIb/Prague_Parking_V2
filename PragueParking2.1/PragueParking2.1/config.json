@@ -1,0 +1,10 @@
+{
+  "NumberOfSpots": 100,
+  "SpotCapacity": 4,
+  "Prices": {
+    "Car": 20,
+    "MC": 10,
+    "Bus": 80,
+    "Bicycle": 5
+  }
+}

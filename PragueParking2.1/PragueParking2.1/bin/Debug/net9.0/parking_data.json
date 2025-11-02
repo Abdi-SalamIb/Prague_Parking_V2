@@ -1,0 +1,124 @@
+{
+  "Spots": [
+    {
+      "SpotNumber": 1,
+      "Vehicles": [
+        {
+          "Type": "Car",
+          "RegistrationNumber": "ABC123",
+          "CheckInTime": "2025-11-02T08:47:33.7551546+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 2,
+      "Vehicles": [
+        {
+          "Type": "Car",
+          "RegistrationNumber": "XYZ789",
+          "CheckInTime": "2025-11-02T11:17:33.7582442+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 3,
+      "Vehicles": [
+        {
+          "Type": "MC",
+          "RegistrationNumber": "MC001",
+          "CheckInTime": "2025-11-02T11:17:33.7584406+01:00"
+        },
+        {
+          "Type": "MC",
+          "RegistrationNumber": "MC002",
+          "CheckInTime": "2025-11-02T11:17:33.7585193+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 4,
+      "Vehicles": [
+        {
+          "Type": "MC",
+          "RegistrationNumber": "MC003",
+          "CheckInTime": "2025-11-02T11:17:33.758522+01:00"
+        },
+        {
+          "Type": "Bicycle",
+          "RegistrationNumber": "CYC001",
+          "CheckInTime": "2025-11-02T11:17:33.7585602+01:00"
+        },
+        {
+          "Type": "Bicycle",
+          "RegistrationNumber": "CYC002",
+          "CheckInTime": "2025-11-02T11:17:33.7586295+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 5,
+      "Vehicles": [
+        {
+          "Type": "Bicycle",
+          "RegistrationNumber": "CYC003",
+          "CheckInTime": "2025-11-02T11:17:33.7586328+01:00"
+        },
+        {
+          "Type": "Bicycle",
+          "RegistrationNumber": "CYC004",
+          "CheckInTime": "2025-11-02T11:17:33.7586349+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 6,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "BUS001",
+          "CheckInTime": "2025-11-02T10:17:33.7586732+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 7,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "BUS001",
+          "CheckInTime": "2025-11-02T10:17:33.7586732+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 8,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "BUS001",
+          "CheckInTime": "2025-11-02T10:17:33.7586732+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 9,
+      "Vehicles": [
+        {
+          "Type": "Bus",
+          "RegistrationNumber": "BUS001",
+          "CheckInTime": "2025-11-02T10:17:33.7586732+01:00"
+        }
+      ]
+    },
+    {
+      "SpotNumber": 10,
+      "Vehicles": [
+        {
+          "Type": "Car",
+          "RegistrationNumber": "CAR999",
+          "CheckInTime": "2025-11-02T11:17:33.7590477+01:00"
+        }
+      ]
+    }
+  ]
+}
